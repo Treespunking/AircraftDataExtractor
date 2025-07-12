@@ -1,5 +1,3 @@
-This Python script is an **Aircraft Data Extraction System** that uses AI to automatically extract structured information from aircraft listing descriptions. Here's a comprehensive breakdown:
-
 ## Core Purpose
 The script processes Excel files containing aircraft listing descriptions and extracts specific aviation-related data points using an AI model, then outputs the results to a CSV file with calculated maintenance metrics.
 
